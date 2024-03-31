@@ -14,7 +14,7 @@ export default function Index() {
   return (
     <div>
       <h1 className="text-4xl font-bold">
-        Welcome to Remix (with Vite and Cloudflare)!!
+        Welcome to Remix (with Vite and Cloudflare)👏👏👏
       </h1>
       <ul>
         <li>
